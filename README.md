@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mycroft Skills Repo
 ![logo](https://avatars1.githubusercontent.com/u/14171097?v=4&s=200 "Logo")
 
@@ -245,3 +246,26 @@ wiki pages.  Also please include the phrase to trigger on as well for your skill
 | :heavy_check_mark:  | [Silly Name Maker](https://github.com/RHackrid/deviloper-silly-name-maker) | Returns a user's silly name by prompting the user for a favorite color and lucky number. See [Google-Dialogflow example](https://developers.google.com/actions/dialogflow/first-app).<br>```Start Silly Name Maker.``` |
 | :heavy_check_mark:   | [Word of the Day](https://github.com/adropofilm/word-of-the-day-skill)   | Get word of the day.<br>```what is the word of the day```|
 | :question:          | [Habit miner](https://github.com/PFE1718/mycroft-habit-miner-skill#readme)| Detect user habits for the [Habit automation system](https://github.com/PFE1718/mycroft-habits-automation#readme) |
+=======
+## Timer
+Set timers for cooking, watering plants and more!
+
+## Description 
+Use Mycroft when your hands are messy or you need more that the one timer
+in your kitchen.  Multiple timers are easy to set and track with
+conversational interactions.
+
+On a Mark 1 you'll see visual feedback as the timer runs, and you can use
+the top button to stop the beeping once a timer expires.
+
+## Examples 
+* "Start a timer for 30 seconds"
+* "Set a timer for 1 minutes"
+* "Set a timer for 3 hours called turkey"
+* "Cancel the timer"
+* "How long is left on the timer?"
+* "Mute the timer" (once triggered)
+
+## Credits 
+Mycroft Inc
+>>>>>>> 329038c083842b448a08132c670451c098c6a350
